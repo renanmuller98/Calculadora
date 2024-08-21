@@ -27,11 +27,11 @@ Contribuições são bem-vindas! Se você tem ideias de melhorias ou encontrou a
 Clone este repositório: 
 
 ```bash
-git clone https://github.com/seu-usuario/calculadora-simples.git
+git clone https://github.com/renanmuller98/Calculadora.git
 ```
 Navegue até o diretório do projeto:
 ```bash
-cd calculadora-simples
+cd calculadora
 ```
 Abra o arquivo index.html no seu navegador para começar a usar a calculadora.
 
